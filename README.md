@@ -1978,3 +1978,8 @@ Sit back and enjoy.
 ## LICENSE
 
 [CC-BY-SA-4.0](./LICENSE.txt)
+git clone git@github.com:<your_github_username>/coding-interview-university.git
+cd coding-interview-university
+git checkout -b progress
+git remote add jwasham https://github.com/jwasham/coding-interview-university
+git fetch --all
